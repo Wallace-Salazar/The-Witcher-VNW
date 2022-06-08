@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	  color:white;
+  }
+body{
+	background-image: url(https://ourimagehosting.com/images/2022/06/08/urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4e.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	justify-content:space-around;
+	background-attachment:fixed;
+	width:1080px;
+	height:1019px;
+}
+header{
+	width:1340px;
+}
+header div{
+	align-items: center;
+}
+.logo{
+	background-repeat:no-repeat;
+	background-size:cover;
+	justify-content:space-around;
+	background-attachment:fixed;
+	display: inline-block;
+  align-items: center;
+	margin-top: 13px;
+	margin-left: 100px;
+	margin-width: 54px;
+	margin-height: 96px;
+}
+.projeto{
+	display: inline-block;
+	width:230px;
+	height:24px;
+	margin-left:50px;
+	font: normal normal normal 20px/24px Montserrat;
+	text-transform: uppercase;
+}
+.universo{
+	display: inline-block;
+	width:115px;
+	height:24px;
+	margin-left:200px;
+	font: normal normal bold 20px/24px Montserrat;
+}
+.atores{
+	display: inline-block;
+	width:85px;
+	height:24px;
+	margin-left:30px;
+	font: normal normal normal 20px/24px Montserrat;
+}
+.temporadas{
+	display: inline-block;
+	width:152px;
+	height:24px;
+	margin-left:30px;
+	font: normal normal normal 20px/24px Montserrat;
+}
+.comunidades{
+	display: inline-block;
+	width:167px;
+	height:24px;
+	margin-left:30px;
+	font: normal normal normal 20px/24px Montserrat;
+}
+main{
+	background-image: url(https://ourimagehosting.com/images/2022/06/08/urn_aaid_sc_US_3e5bdfff-8c40-42c0-8fd9-125ed8881d4efa9c626f95065c82.png);
+	background-repeat: no-repeat;
+	width:719px;
+	height:1022px;
+	margin-left:300px;
+	margin-top:50px;	
+}
+.img1{
+	margin-left:143px;
+	margin-top:459px;
+	width:434px;
+	height:216px
+}
+.img2{
+	margin-left:191px;
+	margin-top:28px;
+	width:338px;
+}
